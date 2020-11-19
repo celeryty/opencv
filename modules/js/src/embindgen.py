@@ -104,7 +104,7 @@ core = {'': ['absdiff', 'add', 'addWeighted', 'bitwise_and', 'bitwise_not', 'bit
         'Algorithm': []}
 
 imgproc = {'': ['Canny', 'GaussianBlur', 'Laplacian', 'HoughLines', 'HoughLinesP', 'HoughCircles', 'Scharr','Sobel', \
-                'adaptiveThreshold','approxPolyDP','arcLength','bilateralFilter','blur','boundingRect','boxFilter',\
+                'adaptiveThreshold','applyColorMap','approxPolyDP','arcLength','bilateralFilter','blur','boundingRect','boxFilter',\
                 'calcBackProject','calcHist','circle','compareHist','connectedComponents','connectedComponentsWithStats', \
                 'contourArea', 'convexHull', 'convexityDefects', 'cornerHarris','cornerMinEigenVal','createCLAHE', \
                 'createLineSegmentDetector','cvtColor','demosaicing','dilate', 'distanceTransform','distanceTransformWithLabels', \
